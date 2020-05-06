@@ -18,7 +18,7 @@ Aclaraciones:
 
 ### Enviar solución
 
-Debes hacer un "Fork" de este proyecto, revolver los problemas y crear un Pull Request hacia este repositorio.
+Debes hacer un "Fork" de este proyecto, resolver los problemas y crear un Pull Request hacia este repositorio.
 
 ### Contribuir
 
