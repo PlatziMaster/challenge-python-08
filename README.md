@@ -1,4 +1,4 @@
-# challenge-python-08 - Time
+# challenge-python-08 - time
 
 El módulo **time** de Python viene en el core del lenguaje, y sirve para trabajar con cuestiones relacionadas al tiempo. Está pensado para trabajar exclusivamente con timestamps de UNIX, y, a diferencia de datetime, permite una agilidad mayor cuando se trata de mediciones cortas.
 
